@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 // this is next header 
 export const metadata = {
-  title: "Dev-story",
+  title: "Dev-story-learn navigation",
   description: "An app for showing devel0per story around the world",
 };
 
